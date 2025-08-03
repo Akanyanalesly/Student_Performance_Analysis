@@ -1,5 +1,5 @@
 # Student_Performance_Analysis
-# 🎓 Capstone Project: Student Performance Analysis & Prediction
+# 🎓 Capstone Project: Student Performance Analysis & Prediction Using demographic and educational factors.
 
 **Course:** INSY 8413 – Introduction to Big Data Analytics  
 **Institution:** Adventist University of Central Africa (AUCA)  
