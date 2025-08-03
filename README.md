@@ -125,7 +125,4 @@ Power BI helps reveal how demographics influence academic success and dropout pa
 
 ---
 
-## 🚀 How to Run This Project
 
-### Python Notebook
-1. Clone the repository: [Link](https://github.com/Akanyanalesly/Student_Performance_Analysis)
