@@ -94,8 +94,9 @@ This capstone project explores student performance by analyzing demographic and 
      
 
 ### 🔑 Model Accuracy:
-> Achieved approximately **XX% accuracy** (update based on your output)
+> Achieved approximately 
 
+<img width="273" height="125" alt="Image" src="https://github.com/user-attachments/assets/44ba7add-bc01-4985-90b3-afc4df8004cb" />
 ---
 
 ## 📊 Power BI Dashboard Summary (`Student_Performance.pbix`)
